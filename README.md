@@ -11,9 +11,9 @@ Put all files in:
 MAMP: /Applications/MAMP/htdocs/experiment3
 
 Files:
-db_connect.php
-login.html
-login.php
+- db_connect.php
+- login.html
+- login.php
 
 ### 3. Run
 MAMP:
