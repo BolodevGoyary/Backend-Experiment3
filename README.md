@@ -10,6 +10,11 @@ Ensure passwords are hashed using PHP `password_hash()`.
 Put all files in:
 MAMP: /Applications/MAMP/htdocs/experiment3
 
+Files:
+db_connect.php
+login.html
+login.php
+
 ### 3. Run
 MAMP:
 http://localhost:8888/experiment3/login.html
